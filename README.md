@@ -11,3 +11,17 @@
 + tokens com numero verificado
 + tokens verificada no caso pega as invalida tambem
 + e as token funcionando
+
+prints:
+
+### arquivos
+
+<img src="./img/files.png">
+
+### arquivos de token
+
+<img src="./img/files-tokens.png">
+
+### print terminal
+
+<img src="./img/tokens.png">
